@@ -1,0 +1,2 @@
+call sendmail.vbs
+pause
